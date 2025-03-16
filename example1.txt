@@ -2,5 +2,6 @@ Test
 cucumber
 Git
 Jenkins
+POM
 Maven
 
