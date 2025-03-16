@@ -1,11 +1,3 @@
-
-Hii
+Hi
+Hello
 Java
-
-Hi - dev
-Hii
-Python
-Java
-
-
-
